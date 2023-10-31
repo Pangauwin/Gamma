@@ -2,8 +2,8 @@
 
 //For use by Gamma applications
 
-#include <stdio.h>
 #include "Gamma/Application.h"
+#include "Gamma/Log.h"
 
 // -- ENTRY POINT -- \\
 

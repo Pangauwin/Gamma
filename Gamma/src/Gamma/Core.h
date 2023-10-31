@@ -8,5 +8,5 @@
 		#define GAMMA_API __declspec(dllimport)
 	#endif
 #else
-	#error Hazel only support Windows !
+	#error Gamma only support Windows !
 #endif
